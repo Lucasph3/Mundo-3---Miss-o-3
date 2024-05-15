@@ -11,4 +11,4 @@
 *   **Campus:** Monte Castelo
 *   **Curso:** Desenvolvimento Full-Stack
 *   **Turma:** 01.23
-*   [Link do Repositório GitHub]([https://github.com/Lucasph3/Estacio/tree/main/mundo%203-%20miss%C3%A3o%202](https://github.com/Lucasph3/Mundo3-missao3))
+*   [Link do Repositório GitHub](https://github.com/Lucasph3/Mundo3-missao3)
